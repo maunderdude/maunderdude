@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee.
 ===========================================================================================================================
 
-Aspiring developer .
+Aspiring developer
 --------------------
 
 I graduated Cardiff metropolitan university with a First-Class Honours Degree in Software Engineering. Throughout my time studying I have learnt many concepts and skills which have helped me further develop my abilities. I am looking to find a career as a developer!
