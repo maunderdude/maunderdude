@@ -1,4 +1,4 @@
-Hi 👋 My name is Lee.
+Hi! 👋 My name is Lee.
 ===========================================================================================================================
 
 Aspiring developer. I like to code and occasionally upload it.
