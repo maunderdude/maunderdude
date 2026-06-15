@@ -4,7 +4,7 @@ Hi! 👋 My name is Lee.
 Aspiring developer. I like to code and occasionally upload it.
 --------------------
 
-I graduated Cardiff metropolitan university with a First-Class Honours Degree in Software Engineering. Throughout my time studying I have learnt many concepts and skills which have helped me further develop my abilities. I am looking to find a career as a developer!
+I graduated Cardiff metropolitan university with a First-Class Honours Degree in Software Engineering.
 
 * 🌍  I'm based in United Kingdom, Wales.
 * ✉️  You can contact me at [lee.maund@gmail.com](mailto:lee.maund@gmail.com)
